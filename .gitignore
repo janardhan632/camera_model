@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+*.zip
+*.tar.gz
+*.csv
+test/
+train/
+val_images/
+validation/
+flickr_images/
+moto_x/
