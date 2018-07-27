@@ -1,8 +1,8 @@
 # camera_model
-Built a CNN model to identify from which camera an image was taken, out of 10 cameras.
+Built a CNN model to identify the camera (out of 10 models) with which an image was shot.
 
-My score in the Leaderboard for the best submission is 0.9728. 
-Achieved Final Leader board rank 33 out of 582 (top 6%), which awarded me with silver medal for this competition.
+My best submission got me a Leaderboard score of 0.9728, with a final Leader board rank of 33 out of 582 (top 6%).
+As a result of this, I was awarded a silver medal for this competition.
 
 | File Name | Description | Kaggle LB score (accuracy score) |
 |--|--|--|
